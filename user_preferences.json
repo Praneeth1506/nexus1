@@ -1,0 +1,11 @@
+{
+    "user123": {
+        "positive": [
+            "Bitcoin price surges 10% in a day!"
+        ],
+        "negative": [
+            "War tensions rise in Eastern Europe."
+        ],
+        "neutral": []
+    }
+}
